@@ -5,7 +5,7 @@
 ### Goal
 
 Traduzione dal catalano all'italiano di un libello di racconti brevi 
-scritto da Xavier Pujalas aka Lo Surenyo. Tale libello verrà pubblicto come  e-book su Amazon e conterrà la 
+scritto da Xavier Pujalas aka Lo Surenyo. Tale libello verrà pubblicato come  e-book su Amazon e conterrà  la 
 versione originale in catalano con traduzione in italiano a fronte . 
 
 Nato e cresciuto a Torre de l'Esanyol,
@@ -16,18 +16,18 @@ che ultimamente ha iniziato a rivedere ed aggruppare.
 
 Contes Irregulars costituisce la sua 
 prima raccolta più o meno strutturata e ordinaa e contiene 30 racconti 
-Il ventaglio dei temi trattati è ababstanza amplio attraversando la sfera sociale, economico-politica e personale.  
+Il ventaglio dei temi trattati è abbastanza amplio attraversando la sfera sociale, economico-politica e personale.  
 
 ### Come
 
-Tutti i racconti sono gia' stati tradotti, con precisione variabile, e pubblicati
+Tutti i racconti sono già stati tradotti, con precisione variabile, e pubblicati
 su la rivista online L'Undici  http://www.lundici.it/. 
 
 Sul sito i racconti sono aggruppati in atomi letterari e pubblicati in coppia
-con traduzione italiana a fronte. Quella pubblicatat su L'Undici non sarà la struttura finale dell'e-book.
+con traduzione italiana a fronte. Quella pubblicatat su L'Undici non sarà  la struttura finale dell'e-book.
 
 I racconti ora sono raccolti e numerati nel repo. Ogni directory contiene
-un file .it che contiene la traduizone gi� pubblicata su L'Undici e 
+un file .it che contiene la traduizone già pubblicata su L'Undici e 
 un file .cat con l'originale.
 
 Le traduzioni verranno controllate, migliorate e approvate per essere
