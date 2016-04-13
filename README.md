@@ -41,7 +41,7 @@ Come in gitflow https://www.atlassian.com/git/tutorials/comparing-workflows/feat
 I files .cat ovviamente non verrano
 toccati, i .it invece si possono cambiare creando un branch (convenzionalmente
 conte/[/d+], per esempio conte/15) da pusheare a github: quando si ritiene
-adatto, si crea una pull requeste into master e @giuppo, @marcotano, e chi si
+adatto, si crea una pull request into master e @giuppo, @marcotano, e chi si
 vorrà sommare, approvando le scelte, commentando etc. come per esempio 
  https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging. 
 Raggiunto il consenso tra i diversi traduttori si fa il merging nel repo master.
