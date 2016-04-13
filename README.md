@@ -5,29 +5,30 @@
 ### Goal
 
 Traduzione dal catalano all'italiano di un libello di racconti brevi 
-scritto da Xavier Pujalas aka Lo Surenyo. Tale libello verr√† pubblicto come  e-book su Amazon e conterr√† la 
-versione originale in catalano con traduzione in italiano a fronte . 
+scritto da Xavier Pujalas aka Lo Surenyo. Tale libello verr‡ pubblicto come e-book su Amazon e conterr‡ la 
+versione originale in catalano con traduzione in italiano a fronte. 
 
 Nato e cresciuto a Torre de l'Esanyol,
-vicino il delta dell'Ebro, Xavier attualmente si guadagna da vivere dividendosi tra professore di catalano e contandino. 
+vicino al delta dell'Ebro, Xavier attualmente si guadagna da vivere lavorando nei campi e dando corsi
+di catalano presso il Centro Linguistico dell'Universit‡ di Barcellona (UB). 
 Scrittore, pittore, musicista,
-artista a 360 gradi, Xavier ha sviluppato una immensa produzione di racconti brevi 
+artista a 360 gradi, Xavier ha sviluppato un'immensa produzione di racconti brevi 
 che ultimamente ha iniziato a rivedere ed aggruppare. 
 
 Contes Irregulars costituisce la sua 
-prima raccolta pi√π o meno strutturata e ordinaa e contiene 30 racconti 
-Il ventaglio dei temi trattati √® ababstanza amplio attraversando la sfera sociale, economico-politica e personale.  
+prima raccolta pi˘ o meno strutturatache ordina 30 racconti.
+Il ventaglio dei temi trattati Ë ababstanza amplio attraversando la sfera sociale, economico-politica e personale.  
 
 ### Come
 
 Tutti i racconti sono gia' stati tradotti, con precisione variabile, e pubblicati
-su la rivista online L'Undici  http://www.lundici.it/. 
+sulla rivista online L'Undici  http://www.lundici.it/. 
 
 Sul sito i racconti sono aggruppati in atomi letterari e pubblicati in coppia
-con traduzione italiana a fronte. Quella pubblicatat su L'Undici non sar√† la struttura finale dell'e-book.
+con traduzione italiana a fronte. Quella pubblicata su L'Undici non sar‡† la struttura finale dell'e-book.
 
 I racconti ora sono raccolti e numerati nel repo. Ogni directory contiene
-un file .it che contiene la traduizone gi√ pubblicata su L'Undici e 
+un file .it che contiene la traduzone gi‡ pubblicata su L'Undici e 
 un file .cat con l'originale.
 
 Le traduzioni verranno controllate, migliorate e approvate per essere
@@ -40,7 +41,7 @@ I files .cat ovviamente non verrano
 toccati, i .it invece si possono cambiare creando un branch (convenzionalmente
 conte/[/d+], per esempio conte/15) da pusheare a github: quando si ritiene
 adatto, si crea una pull requeste into master e @giuppo, @marcotano, e chi si
-vorra' sommare, approvano le scelte, commentando etc. come per esempio 
+vorr‡ sommare, approvando le scelte, commentando etc. come per esempio 
  https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging. 
 Raggiunto il consenso tra i diversi traduttori si fa il merging nel repo master.
 
