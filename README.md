@@ -5,13 +5,8 @@
 ### Goal
 
 Traduzione dal catalano all'italiano di un libello di racconti brevi 
-<<<<<<< HEAD
 scritto da Xavier Pujalas aka Lo Surenyo. Tale libello verrà pubblicto come e-book su Amazon e conterrà la 
 versione originale in catalano con traduzione in italiano a fronte. 
-=======
-scritto da Xavier Pujalas aka Lo Surenyo. Tale libello verrÃ  pubblicato come  e-book su Amazon e conterrÃ Â  la 
-versione originale in catalano con traduzione in italiano a fronte . 
->>>>>>> 3b538bb569d92fccbe7b0efb5e9fb7c2bd958a10
 
 Nato e cresciuto a Torre de l'Esanyol,
 vicino al delta dell'Ebro, Xavier attualmente si guadagna da vivere lavorando nei campi e dando corsi
@@ -21,39 +16,24 @@ artista a 360 gradi, Xavier ha sviluppato un'immensa produzione di racconti brev
 che ultimamente ha iniziato a rivedere ed aggruppare. 
 
 Contes Irregulars costituisce la sua 
-<<<<<<< HEAD
-prima raccolta più o meno strutturatache ordina 30 racconti.
+prima raccolta più o meno strutturata e che ordina 30 racconti.
 Il ventaglio dei temi trattati è ababstanza amplio attraversando la sfera sociale, economico-politica e personale.  
 
-### Come
-
-Tutti i racconti sono gia' stati tradotti, con precisione variabile, e pubblicati
-sulla rivista online L'Undici  http://www.lundici.it/. 
-
-Sul sito i racconti sono aggruppati in atomi letterari e pubblicati in coppia
-con traduzione italiana a fronte. Quella pubblicata su L'Undici non sarà  la struttura finale dell'e-book.
-
-I racconti ora sono raccolti e numerati nel repo. Ogni directory contiene
-un file .it che contiene la traduzone già pubblicata su L'Undici e 
-=======
-prima raccolta piÃ¹ o meno strutturata e ordinaa e contiene 30 racconti 
-Il ventaglio dei temi trattati Ã¨ abbastanza amplio attraversando la sfera sociale, economico-politica e personale.  
 
 ### Come
 
-Tutti i racconti sono giÃ  stati tradotti, con precisione variabile, e pubblicati
+Tutti i racconti sono già  stati tradotti, con precisione variabile, e pubblicati
 su la rivista online L'Undici  http://www.lundici.it/. 
 
 Sul sito i racconti sono aggruppati in atomi letterari e pubblicati in coppia
-con traduzione italiana a fronte. Quella pubblicatat su L'Undici non sarÃ   la struttura finale dell'e-book.
+con traduzione italiana a fronte. Quella pubblicata su L'Undici non sarà la struttura finale dell'e-book.
 
 I racconti ora sono raccolti e numerati nel repo. Ogni directory contiene
-un file .it che contiene la traduizone giÃ  pubblicata su L'Undici e 
->>>>>>> 3b538bb569d92fccbe7b0efb5e9fb7c2bd958a10
+un file .it che contiene la traduizone già  pubblicata su L'Undici e 
 un file .cat con l'originale.
 
 Le traduzioni verranno controllate, migliorate e approvate per essere
-incluse nel libro to be published. L'ordine  finale dei racconti deve ancora essere discusso.
+incluse nel libro to be published. L'ordine finale dei racconti deve ancora essere discusso.
 
 ### Workflow
 
